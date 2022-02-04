@@ -24,8 +24,13 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript and Bull Queues implementation.
 
+This is my first contact with NestJS and i start love this framework.
+
+The project come from a class of DaniLeao @ RocketSeat.
+
+https://www.youtube.com/watch?v=cpLBaVBMg2Y
 ## Installation
 
 ```bash
